@@ -3,9 +3,17 @@
     background: black;
 }
 span{
-    color: green;
+    color: white;
     font-weight: bold;
 }
 p{
     color: green;
+    margin: 0;
+    padding: 0;
+}
+main{
+    margin-top: 64px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
